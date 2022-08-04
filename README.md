@@ -5,5 +5,5 @@ Aplicação de Interface do GitHub
 ### Preview
 Print do projeto finalizado.
 
-![plot](.image/snapshot-1.png)
+![plot](./app/image/snapshot-1.png)
 
